@@ -1,0 +1,1 @@
+consola . log ( "trabalhador de serviço rodou" ) ;
