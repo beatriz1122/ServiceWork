@@ -1,9 +1,9 @@
-consola.log ("main.js carregado.") ;
-if  (navigator.serviceWorker) {
-    consola.log ("Navegador possui suporte a PWA.") ;
-    navegador.serviceWorker.registrar ('sw.js')
-    .então (função ( ) { } )
-    .catch (função ( err ) { } ) ;
-}  senão  {
-    consola.log ("Navegador não possui suporte a PWA.");
+console.log("main.js carregado.");
+if (navigator.serviceWorker){
+    console.log("Navegador possui suporte a PWA.");
+    navigator.serviceWorker.register('sw.js')
+    .then(function(){})
+    .catch(function(err){});
+} else {
+    console.log("Navegador não possui suporte a PWA.");
 }
