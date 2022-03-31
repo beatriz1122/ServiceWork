@@ -1,1 +1,1 @@
-consola . log ( "trabalhador de serviço rodou" ) ;
+consola.log ("trabalhador de serviço rodou");

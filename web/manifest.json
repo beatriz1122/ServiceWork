@@ -1,9 +1,9 @@
 {
-    "name" : " Aplicativo PWA " ,
-    "short_name" : " PWA-A " ,
-    "description" : " Apenas aprendendo. " ,
-    "start_url" : " / " ,
-    "display" : " autônomo " ,
-    "theme_color" : " #3f51b5 " ,
-    "background_color" : " #3f51b5 " 
+    "name":"Aplicativo PWA",
+    "short_name":"PWA-A",
+    "description":"Apenas aprendendo.",
+    "start_url":"/",
+    "display":"autônomo",
+    "theme_color":"#3f51b5",
+    "background_color":"#3f51b5" 
   }
