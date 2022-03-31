@@ -1,1 +1,1 @@
-consola.log ("trabalhador de serviço rodou");
+console.log("service worker rodou");
